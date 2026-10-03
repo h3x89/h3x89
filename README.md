@@ -23,7 +23,7 @@ I bring 15+ years across SRE, DevOps, cloud, platform engineering, automation an
 
 I treat model autonomy as an engineering trade-off: give agents freedom where it creates leverage, and keep deterministic checks, observability and human judgment where failure matters.
 
-## ğŸ×ï¸ Background
+## ğŸ—ï¸ Background
 
 Before moving into AI architecture, I worked across Linux, DevOps, cloud, SRE and platform engineering, including six years at Nordcloud / IBM and platform work for the European Commission / NTT DATA.
 
